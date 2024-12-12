@@ -9,7 +9,7 @@
 
 ## 既知の不具合
 ### 別ツールを利用しないとファームウェアのアップデートができない
-- [アップデートツール](https://github.com/Emils-Inc/DeviceUpdater/releases)
+- [アップデートツール](https://github.com/Emils-Inc/DeviceUpdater)
 - コンフィグツールに組み込む作業をしています
 ### アプリ内に表示されるファームウェアバージョンが常に0
 - 有線版と共通化するまでの一時的な不具合です

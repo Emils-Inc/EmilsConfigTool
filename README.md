@@ -6,6 +6,8 @@
 [Download](https://github.com/Emils-Inc/EmilsConfigTool/releases/latest/download/EmilsConfigTool.exe)
 
 ## アップデートログ
+### 2024/12/14
+- ポーリングレートが反映されていない問題を修正
 
 ## 既知の不具合
 ### 別ツールを利用しないとファームウェアのアップデートができない
